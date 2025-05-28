@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: yourdockerhubuser/html-demo
+  IMAGE_NAME: adrianocortes/argocd
   K8S_MANIFEST_PATH: k8s/deployment.yaml
 
 jobs:
