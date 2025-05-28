@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: html
-        image: adrianocortes/argocd:20250528135734
+        image: adrianocortes/argocd:20250528144015
         ports:
         - containerPort: 80
 
