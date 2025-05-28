@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: html
-        image: adrianocortes/html-demo:latest
+        image: adrianocortes/html-demo:v3
         ports:
         - containerPort: 80
 
